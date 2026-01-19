@@ -1,0 +1,5 @@
+{
+  "name": "VibeMatch AI",
+  "description": "Upload an image and let AI analyze the mood to suggest the perfect song for the moment.",
+  "requestFramePermissions": []
+}
